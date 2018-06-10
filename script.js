@@ -10,13 +10,13 @@ var partOne = ['anime','anal','abrupt','angry','boob','bosom','butt',
 'group','jumbo','big','jiggly','small','tiny','glamourous','perfect',
 'regrettable','humiliating','lovely','delightful','robust','horny','long','short',
 'normal','inefficient','benign','harmless','playful','genuine','counterfeit','full',
-'tinted','fake','spontaneous','mischievious','flawless','magical','warm','ice-cold','cyber',
-'herbal','fragrant','overwhelming','fierce','perverted','extreme','extra','respectful',
+'fake','spontaneous','mischievious','flawless','magical','warm','ice-cold','cyber',
+'virile','fragrant','overwhelming','fierce','perverted','extreme','extra','respectful',
 'vigilant','enchanted','artificial','supportive','goth','mysterious',
 'androgynous','masculine','feminine','versatile','immaculate','drippy','orgasmic',
 'vibrating','spicy','feisty','electric','intimate','messy','dirty','chaste',
 'pure','muscular','suggestive','subversive','improbable','oversized',
-'large','wriggly','sexy','handsome','botched'];
+'large','wriggly','sexy','handsome','botched','hot','fertile'];
 
 var partTwo = ['ass','coupling','bears','tonguing','biting','brushing','fondling'
 ,'jobs','play','wrestling','fighting','slapping',
