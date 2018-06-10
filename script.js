@@ -7,7 +7,7 @@ var partOne = ['anime','anal','abrupt','angry','boob','bosom','butt',
 'rough','gentle','seductive','careful','experienced','adventurous','mature',
 'new-fangled','erotic','charismatic','uniformed','corporate','sweaty','thick',
 'vigorous','tender','hard','soft','beautiful','heavy','regular','vanilla',
-'group','jumbo','big','jiggly','small','tiny','glamourous','perfect',
+'group','jumbo','big','jiggly','small','tiny','glamorous','perfect',
 'regrettable','humiliating','lovely','delightful','robust','horny','long','short',
 'normal','inefficient','benign','harmless','playful','genuine','counterfeit','full',
 'fake','spontaneous','mischievious','flawless','magical','warm','ice-cold','cyber',
@@ -40,7 +40,6 @@ button.addEventListener('click', combineParts);
 
 function combineParts() {
   var randomOne = partOne[Math.floor(Math.random()*partOne.length)];
-  // var randomTwo = partOne[Math.floor(Math.random()*partOne.length)];
   var randomTwo = partTwo[Math.floor(Math.random()*partTwo.length)];
   var outputDiv = document.getElementById('output');
   outputDiv.textContent = (randomOne+' '+randomTwo);
