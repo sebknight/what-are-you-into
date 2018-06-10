@@ -1,0 +1,14 @@
+#container {
+  width: 100%;
+  padding: 2em;
+  text-align: center;
+  align-items: center;
+}
+
+#button {
+  margin: 2em;
+}
+
+#output {
+  font-size: 30px;
+}
