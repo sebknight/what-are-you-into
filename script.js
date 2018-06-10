@@ -6,7 +6,7 @@ var partOne = ['anime','anal','abrupt','angry','boob','bosom','butt',
 'tight','furry','vacuum-sealed','resentful','outdated','queer','passionate',
 'rough','gentle','seductive','careful','experienced','adventurous','mature',
 'new-fangled','erotic','charismatic','uniformed','corporate','sweaty','thick',
-'vigourous','tender','hard','soft','beautiful','heavy','regular','vanilla',
+'vigorous','tender','hard','soft','beautiful','heavy','regular','vanilla',
 'group','jumbo','big','jiggly','small','tiny','glamourous','perfect',
 'regrettable','humiliating','lovely','delightful','robust','horny','long','short',
 'normal','inefficient','benign','harmless','playful','genuine','counterfeit','full',
@@ -32,7 +32,7 @@ var partTwo = ['ass','coupling','bears','tonguing','biting','brushing','fondling
 'bits','mouths','eyes','tops','bottoms','fluids','ears','gamers',
 'friends','lovers','partners','booty','legs','orifices','foreplay','jizz','squirting',
 'queefing','edging','massage','masturbation','humping','pleasure','member','pounding',
-'eye contact','sausage','melons','throbbing','pulsating','shaving'];
+'eye contact','sausage','melons','throbbing','pulsating','shaving','dick'];
 
 
 var button = document.getElementById('button');
