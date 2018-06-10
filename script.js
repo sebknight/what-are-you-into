@@ -15,8 +15,8 @@ var partOne = ['anime','anal','abrupt','angry','boob','bosom','butt',
 'vigilant','enchanted','artificial','supportive','goth','mysterious',
 'androgynous','masculine','feminine','versatile','immaculate','drippy','orgasmic',
 'vibrating','spicy','feisty','electric','intimate','messy','dirty','chaste',
-'pure','muscular','throbbing','pulsating','suggestive','subversive','improbable','oversized',
-'large','wriggling','sexy','handsome','botched'];
+'pure','muscular','suggestive','subversive','improbable','oversized',
+'large','wriggly','sexy','handsome','botched'];
 
 var partTwo = ['ass','coupling','bears','tonguing','biting','brushing','fondling'
 ,'jobs','play','wrestling','fighting','slapping',
@@ -31,7 +31,7 @@ var partTwo = ['ass','coupling','bears','tonguing','biting','brushing','fondling
 'bits','mouths','eyes','tops','bottoms','fluids','ears','gamers',
 'friends','lovers','partners','booty','legs','orifices','foreplay','jizz','squirting',
 'queefing','edging','massage','masturbation','humping','pleasure','member','pounding',
-'eye contact'];
+'eye contact','sausage','melons','throbbing','pulsating','shaving'];
 
 
 var button = document.getElementById('button');
