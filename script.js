@@ -1,6 +1,6 @@
 var partOne = ['anal','abrupt','angry','ball',
-'boob','bosom','butt','chicken','clown','cursed','fruit','evil','engorged','erect','firm','wet','moist','sensual','sexual','non-sexual','platonic','rocky','frightening','Catholic','sweet','savoury','mature','tedious','bad','raw','uncooked','aggressive','nostalgic'];
-var partTwo = ['ass','biting','brushing','fondling','jobs','play','insertion','stroking','cock','choking','bitcoin','geology','teeth','tiddy','feet','shoulders','toes'];
+'boob','bosom','butt','chicken','clown','cursed','fruit','evil','engorged','erect','firm','wet','moist','sensual','sexual','non-sexual','platonic','rocky','frightening','Catholic','online','sweet','savoury','tedious','bad','raw','uncooked','aggressive','nostalgic','aromatic','gourmet','bruised','old-fashioned','abrasive','unflattering','tight','furry','vacuum-sealed'];
+var partTwo = ['ass','tongue','biting','brushing','fondling','compression','jobs','play','insertion','stroking','cock','choking','bitcoin','geology','teeth','tiddy','feet','shoulders','toes','men','women'];
 
 
 var button = document.getElementById('button');
