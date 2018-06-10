@@ -1,5 +1,5 @@
 var partOne = ['anime','anal','abrupt','angry','boob','bosom','butt',
-'clown','cursed','fruit','evil','engorged','erect','firm','wet',
+'clown','cursed','fruity','evil','engorged','erect','firm','wet',
 'moist','sensual','sexual','non-sexual','platonic','gay','heterosexual',
 'homosexual','bisexual','haunted','online','IRL','tedious','bad','raw',
 'aggressive','scented','gourmet','old-fashioned','abrasive','unflattering',
