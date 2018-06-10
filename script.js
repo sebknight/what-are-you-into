@@ -1,15 +1,45 @@
-var partOne = ['anal','abrupt','angry','ball',
-'boob','bosom','butt','chicken','clown','cursed','fruit','evil','engorged','erect','firm','wet','moist','sensual','sexual','non-sexual','platonic','rocky','frightening','Catholic','online','sweet','savoury','tedious','bad','raw','uncooked','aggressive','nostalgic','aromatic','gourmet','bruised','old-fashioned','abrasive','unflattering','tight','furry','vacuum-sealed'];
-var partTwo = ['ass','tongue','biting','brushing','fondling','compression','jobs','play','insertion','stroking','cock','choking','bitcoin','geology','teeth','tiddy','feet','shoulders','toes','men','women'];
+var partOne = ['anime','anal','abrupt','angry','boob','bosom','butt',
+'clown','cursed','fruit','evil','engorged','erect','firm','wet',
+'moist','sensual','sexual','non-sexual','platonic','gay','heterosexual',
+'homosexual','bisexual','haunted','online','IRL','tedious','bad','raw',
+'aggressive','scented','gourmet','old-fashioned','abrasive','unflattering',
+'tight','furry','vacuum-sealed','resentful','outdated','queer','passionate',
+'rough','gentle','seductive','careful','experienced','adventurous','mature',
+'new-fangled','erotic','charismatic','uniformed','corporate','sweaty','thick',
+'vigourous','tender','hard','soft','beautiful','heavy','regular','vanilla',
+'group','jumbo','big','jiggly','small','tiny','glamourous','perfect',
+'regrettable','humiliating','lovely','delightful','robust','horny','long','short',
+'normal','inefficient','benign','harmless','playful','genuine','counterfeit','full',
+'tinted','fake','spontaneous','mischievious','flawless','magical','warm','ice-cold','cyber',
+'herbal','fragrant','overwhelming','fierce','perverted','extreme','extra','respectful',
+'vigilant','enchanted','artificial','supportive','goth','mysterious',
+'androgynous','masculine','feminine','versatile','immaculate','drippy','orgasmic',
+'vibrating','spicy','feisty','electric','intimate','messy','dirty','chaste',
+'pure','muscular','throbbing','pulsating','suggestive','subversive','improbable','oversized',
+'large','wriggling','sexy','handsome','botched'];
+
+var partTwo = ['ass','coupling','bears','tonguing','biting','brushing','fondling'
+,'jobs','play','wrestling','fighting','slapping',
+'dating','sexting','romance','marriage','monogamy','polyamory','pegging',
+'insertion','stroking','cock','choking','bitcoin','teeth','tiddy','feet',
+'shoulders','toes','men','women','fanfic','videos','magazines','bondage',
+'ghosts','hacking','hands','fisting','courting','relations','spanking',
+'holes','pussy','kink','tentacles','licking','balls','friendship','wigs',
+'roleplay','submission','people','fingering','beef','piss','salami','knees','dong',
+'penetration','sucking','implants','flirting','witches','wizards','monsters'
+,'robots','cum','hand-holding','kissing','hugging','dildos','machines','buttholes','flaps',
+'bits','mouths','eyes','tops','bottoms','fluids','ears','gamers',
+'friends','lovers','partners','booty','legs','orifices','foreplay','jizz','squirting',
+'queefing','edging','massage','masturbation','humping','pleasure','member','pounding',
+'eye contact'];
 
 
 var button = document.getElementById('button');
-
-
-button.addEventListener("click", combineParts);
+button.addEventListener('click', combineParts);
 
 function combineParts() {
   var randomOne = partOne[Math.floor(Math.random()*partOne.length)];
+  // var randomTwo = partOne[Math.floor(Math.random()*partOne.length)];
   var randomTwo = partTwo[Math.floor(Math.random()*partTwo.length)];
   var outputDiv = document.getElementById('output');
   outputDiv.textContent = (randomOne+' '+randomTwo);

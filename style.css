@@ -1,5 +1,11 @@
-#container {
-  width: 100%;
+body {
+  background: #ED213A;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #93291E, #ED213A);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #93291E, #ED213A); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  color: white;
+}
+
+.container {
   padding: 2em;
   text-align: center;
   align-items: center;
@@ -7,8 +13,61 @@
 
 #button {
   margin: 2em;
+  background: #262626;
 }
+
 
 #output {
   font-size: 30px;
 }
+
+.btn-custom {
+  color: #FFFFFF;
+  background-color: #2c3e50;
+  border-color: #5E5E5E;
+}
+
+.btn-custom:hover,
+.btn-custom:focus,
+.btn-custom:active,
+.btn-custom.active,
+.open .dropdown-toggle.btn-custom {
+  color: #FFFFFF;
+  background-color: #34495e;
+  border-color: #5E5E5E;
+}
+
+/* .btn-custom:active,
+.btn-custom.active,
+.open .dropdown-toggle.btn-custom {
+  background-image: none;
+} */
+
+/* .btn-custom.disabled,
+.btn-custom[disabled],
+fieldset[disabled] .btn-custom,
+.btn-custom.disabled:hover,
+.btn-custom[disabled]:hover,
+fieldset[disabled] .btn-custom:hover,
+.btn-custom.disabled:focus,
+.btn-custom[disabled]:focus,
+fieldset[disabled] .btn-custom:focus,
+.btn-custom.disabled:active,
+.btn-custom[disabled]:active,
+fieldset[disabled] .btn-custom:active,
+.btn-custom.disabled.active,
+.btn-custom[disabled].active,
+fieldset[disabled] .btn-custom.active {
+  background-color: #34495e;
+  border-color: #5E5E5E; */
+/* } */
+
+/* .btn-custom .badge {
+  color: #3B2E2E;
+  background-color: #FFFFFF;
+} */
+
+/* .btn-custom:focus,.btn:active {
+   outline: none !important;
+   box-shadow: none;
+} */
