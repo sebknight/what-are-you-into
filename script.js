@@ -16,7 +16,8 @@ var partOne = ['anime','anal','abrupt','angry','boob','bosom','butt',
 'androgynous','masculine','feminine','versatile','immaculate','drippy','orgasmic',
 'vibrating','spicy','feisty','electric','intimate','messy','dirty','chaste',
 'pure','muscular','suggestive','subversive','improbable','oversized',
-'large','wriggly','sexy','handsome','botched','hot','fertile','saucy'];
+'large','wriggly','sexy','handsome','botched','hot','fertile','saucy','nasty',
+'filthy'];
 
 var partTwo = ['ass','coupling','bears','tonguing','biting','brushing','fondling'
 ,'jobs','play','wrestling','fighting','slapping',
