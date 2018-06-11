@@ -5,10 +5,10 @@ var partOne = ['anime','anal','abrupt','angry','boob','bosom','butt',
 'aggressive','scented','gourmet','old-fashioned','abrasive','unflattering',
 'tight','furry','vacuum-sealed','resentful','outdated','queer','passionate',
 'rough','gentle','seductive','careful','experienced','adventurous','mature',
-'new-fangled','erotic','charismatic','uniformed','corporate','sweaty','thick',
+'new-fangled','erotic','charismatic','corporate','sweaty','thick',
 'vigorous','tender','hard','soft','beautiful','heavy','regular','vanilla',
 'group','jumbo','big','jiggly','small','tiny','glamorous','perfect',
-'regrettable','humiliating','lovely','delightful','robust','horny','long','short',
+'regrettable','humiliating','lovely','robust','horny','long','short',
 'normal','inefficient','benign','harmless','playful','genuine','counterfeit','full',
 'fake','spontaneous','mischievious','flawless','magical','warm','ice-cold','cyber',
 'virile','fragrant','overwhelming','fierce','perverted','extreme','extra','respectful',
@@ -16,23 +16,25 @@ var partOne = ['anime','anal','abrupt','angry','boob','bosom','butt',
 'androgynous','masculine','feminine','versatile','immaculate','drippy','orgasmic',
 'vibrating','spicy','feisty','electric','intimate','messy','dirty','chaste',
 'pure','muscular','suggestive','subversive','improbable','oversized',
-'large','wriggly','sexy','handsome','botched','hot','fertile','saucy','nasty',
-'filthy'];
+'large','sexy','handsome','botched','hot','fertile','saucy','nasty',
+'filthy','romantic','mediocre','battery-powered','naked','nude','naughty',
+'bratty','flavoured','forgettable'];
 
-var partTwo = ['ass','coupling','bears','tonguing','biting','brushing','fondling'
+var partTwo = ['ass','coupling','bears','tonguing','biting','fondling'
 ,'jobs','play','wrestling','fighting','slapping',
 'dating','sexting','romance','marriage','monogamy','polyamory','pegging',
 'insertion','stroking','cock','choking','bitcoin','teeth','tiddy','feet',
-'shoulders','toes','men','women','fanfic','videos','magazines','bondage',
+'shoulders','toes','men','women','fanfic','videos','bondage',
 'ghosts','hacking','hands','fisting','courting','relations','spanking',
 'holes','pussy','kink','tentacles','licking','balls','friendship','wigs',
-'roleplay','submission','people','fingering','beef','piss','salami','knees','dong',
-'penetration','sucking','implants','flirting','witches','wizards','monsters'
+'roleplay','domination','submission','people','fingering','beef','piss','salami','knees',
+'dong','penetration','sucking','implants','flirting','witches','wizards','monsters'
 ,'robots','cum','hand-holding','kissing','hugging','dildos','machines','buttholes','flaps',
 'bits','mouths','eyes','tops','bottoms','fluids','ears','gamers',
 'friends','lovers','partners','booty','legs','orifices','foreplay','jizz','squirting',
 'queefing','edging','massage','masturbation','humping','pleasure','member','pounding',
-'eye contact','sausage','melons','throbbing','pulsating','shaving','dick'];
+'eye contact','sausage','melons','throbbing','shaving','dick','felching',
+'threesomes','DILFs','MILFs'];
 
 
 var button = document.getElementById('button');
