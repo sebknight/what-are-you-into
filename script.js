@@ -5,7 +5,7 @@ var partOne = ['anime','anal','abrupt','angry','boob','bosom','butt',
 'aggressive','scented','gourmet','old-fashioned','abrasive','unflattering',
 'tight','furry','vacuum-sealed','resentful','outdated','queer','passionate',
 'rough','gentle','seductive','careful','experienced','adventurous','mature',
-'new-fangled','erotic','charismatic','corporate','sweaty','thick',
+'new-fangled','erotic','charismatic','corporate','sweaty','thicc',
 'vigorous','tender','hard','soft','beautiful','heavy','regular','vanilla',
 'group','jumbo','big','jiggly','small','tiny','glamorous','perfect',
 'regrettable','humiliating','lovely','robust','horny','long','short',
@@ -37,12 +37,12 @@ var partTwo = ['ass','coupling','bears','tonguing','biting','fondling'
 'threesomes','DILFs','MILFs'];
 
 
-var button = document.getElementById('button');
+var button = document.querySelector('.btn');
 button.addEventListener('click', combineParts);
 
 function combineParts() {
   var randomOne = partOne[Math.floor(Math.random()*partOne.length)];
   var randomTwo = partTwo[Math.floor(Math.random()*partTwo.length)];
-  var outputDiv = document.getElementById('output');
-  outputDiv.textContent = (randomOne+' '+randomTwo);
+  var output = document.getElementById('output');
+  output.textContent = (randomOne+' '+randomTwo);
 }

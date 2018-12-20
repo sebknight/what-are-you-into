@@ -5,16 +5,34 @@ body {
   color: white;
 }
 
-.container {
-  padding: 2em;
+.container-fluid {
+  display: flex;
+  height: 100vh;
+  box-sizing: border-box;
   text-align: center;
-  align-items: center;
+  justify-content: center;
+
 }
 
-#button {
+.col {
+  height: 100%;
+  padding: 1em 2em 1em 2em;
+  background: rgb(56, 56, 56);
+  border: 2px solid white;
+  border-top: none;
+  border-bottom: none;
+}
+
+.btn {
   margin: 2em;
+  width: 80%;
+  background: #93291E;
 }
 
+.btn:hover {
+  background: white;
+  color: #93291E;
+}
 
 #output {
   font-size: 30px;
