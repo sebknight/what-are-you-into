@@ -37,10 +37,6 @@ body {
   align-items: center;
 }
 
-.content {
-  /* display: flex; */
-}
-
 #output {
   height: 2em;
   font-size: 30px;
