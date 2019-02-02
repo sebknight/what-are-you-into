@@ -3,13 +3,15 @@ body {
   color: white;
 }
 
-.container-fluid {
-  display: flex;
-  height: 100vh;
-  box-sizing: border-box;
-  text-align: center;
-  justify-content: center;
+.btn {
+  margin: 2em;
+  width: 80%;
+  background: rgb(56, 56, 56);
+}
 
+.btn:hover {
+  background: white;
+  color: #93291E;
 }
 
 .col {
@@ -23,15 +25,12 @@ body {
   border-bottom: none;
 }
 
-.btn {
-  margin: 2em;
-  width: 80%;
-  background: #93291E;
-}
-
-.btn:hover {
-  background: white;
-  color: #93291E;
+.container-fluid {
+  display: flex;
+  height: 100vh;
+  box-sizing: border-box;
+  text-align: center;
+  justify-content: center;
 }
 
 #output {

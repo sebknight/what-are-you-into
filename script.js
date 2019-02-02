@@ -4,7 +4,6 @@ var partOne = ['anime','anal','abrupt','angry','boob','bosom','butt',
 
 var partTwo = ['ass','coupling','bears','tonguing','biting','fondling','jobs','play','wrestling','fighting','slapping','dating','sexting','romance','marriage','monogamy','polyamory','pegging','insertion','stroking','cock','choking','bitcoin','teeth','tiddy','feet','shoulders','toes','men','women','fanfic','videos','bondage','ghosts','hacking','hands','fisting','courting','relations','spanking','holes','pussy','kink','tentacles','licking','balls','friendship','wigs','roleplay','domination','submission','people','fingering','beef','piss','salami','knees','dong','penetration','sucking','implants','flirting','witches','wizards','monsters','robots','cum','hand-holding','kissing','hugging','dildos','machines','buttholes','flaps','bits','mouths','eyes','tops','bottoms','fluids','ears','gamers','friends','lovers','partners','booty','legs','orifices','foreplay','jizz','squirting','queefing','edging','massage','masturbation','humping','pleasure','member','pounding','eye contact','sausage','melons','throbbing','shaving','dick','felching','threesomes','DILFs','MILFs','piercing'];
 
-
 var button = document.querySelector('.btn');
 button.addEventListener('click', combineParts);
 
