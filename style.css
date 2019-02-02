@@ -13,7 +13,7 @@ html, body {
   background: rgb(56, 56, 56);
 }
 
-.btn:active {
+.btn:active, .btn:hover {
   background: white;
   color: #93291E;
 }

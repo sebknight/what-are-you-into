@@ -12,4 +12,5 @@ function combineParts() {
   var randomTwo = partTwo[Math.floor(Math.random()*partTwo.length)];
   var output = document.getElementById('output');
   output.textContent = (randomOne+' '+randomTwo);
+  button.blur();
 }
